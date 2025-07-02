@@ -1,0 +1,25 @@
+# Daily Routine Analyzer
+
+A beginner Python project that takes daily input (sleep, study, free time, workout) and gives useful suggestions to help you reflect on your daily habits.
+
+## 🔧 Skills Used
+- Variables
+- User input
+- Conditional statements (`if`, `elif`, `else`)
+- Data types and conversions
+- Comments and code clarity
+
+## 📘 What I Learned
+- How to structure a basic Python script
+- How to interact with users via input
+- How to give feedback based on logic
+- How to apply programming to improve real life
+
+## 🎯 Purpose
+This project helps me check whether I’m spending my time wisely each day. It’s a practical tool for self-improvement and a good exercise in using Python basics.
+
+## 🚀 How to Run
+1. Make sure you have Python installed.
+2. Run the script using:
+```bash
+python daily_routine_analyzer.py
